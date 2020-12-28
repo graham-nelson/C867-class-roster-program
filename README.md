@@ -1,4 +1,5 @@
-# C867-ClassRosterProject
+# C867-class-roster-program
+
 Final project for C867 - Scripting and Programming Applications
 
 main() is within the roster.cpp file
